@@ -1,2 +1,4 @@
 file1
 haha
+在vscode里修改了这一行
+在vscode里修改了这一行
